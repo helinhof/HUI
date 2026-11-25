@@ -4,7 +4,7 @@
 
 HUI is a flat, minimalist UI that replaces the default unit frames, raid and party frames, action bars, cast bars, auras, chat, minimap, bags, tooltips and nameplates. It also adds a cooldown manager with class panels with a layout for every spec, and skins every Blizzard window to match. It works out of the box, what you see in the screenshots is the default profile. You have an option for class color instead of dark theme. Addon usage is 2mb idle and about 5mb in combat.
 
-![Hunter](screenshots/1.png)
+![Addon settings window](screenshots/11.png)
 
 ## Features
 
@@ -34,7 +34,7 @@ HUI is a flat, minimalist UI that replaces the default unit frames, raid and par
 | ![Shadow Priest](screenshots/5.png) Shadow Priest | ![Balance Druid](screenshots/6.png) Balance Druid |
 | ![Feral Druid](screenshots/7.png) Feral Druid | ![Rogue](screenshots/8.png) Rogue |
 | ![Warlock](screenshots/9.png) Warlock | ![Warrior](screenshots/10.png) Warrior |
-| ![Fire Mage](screenshots/2.png) Fire Mage | ![Addon settings window](screenshots/11.png) Addon settings window |
+| ![Hunter](screenshots/1.png) Hunter | ![Fire Mage](screenshots/2.png) Fire Mage |
 | ![DPS / tank profile](screenshots/12.png) DPS / tank profile | ![Healer profile](screenshots/13.png) Healer profile |
 
 ## Installation
