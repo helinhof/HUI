@@ -1,0 +1,82 @@
+## Interface: 30300
+## Title: |cffc41f3bHUI|r
+## Notes: Clean, dark minimalist UI replacement (unit frames, raid frames, castbars, auras).
+## Author: HUI
+## Version: 1.128.0
+## SavedVariables: HUIDB
+
+# HUI
+Core.lua
+DefaultProfile.lua
+Units.lua
+Castbar.lua
+Glow.lua
+CDMDefaults.lua
+CDM.lua
+Raid.lua
+Party.lua
+Buffs.lua
+ActionBars.lua
+Minimap.lua
+Chat.lua
+Bubbles.lua
+Bags.lua
+Tooltips.lua
+Nameplates.lua
+Combat.lua
+QoL.lua
+LootRoll.lua
+Skins.lua
+Elv\Engine.lua
+Elv\Skins.lua
+Elv\Blizzard\Achievement.lua
+Elv\Blizzard\Alerts.lua
+Elv\Blizzard\Arena.lua
+Elv\Blizzard\ArenaRegistrar.lua
+Elv\Blizzard\AuctionHouse.lua
+Elv\Blizzard\BGMap.lua
+Elv\Blizzard\BGScore.lua
+Elv\Blizzard\Bags.lua
+Elv\Blizzard\Barber.lua
+Elv\Blizzard\Binding.lua
+Elv\Blizzard\BlizzardOptions.lua
+Elv\Blizzard\Calendar.lua
+Elv\Blizzard\Character.lua
+Elv\Blizzard\Debug.lua
+Elv\Blizzard\DressingRoom.lua
+Elv\Blizzard\Friends.lua
+Elv\Blizzard\GMChat.lua
+Elv\Blizzard\Glyph.lua
+Elv\Blizzard\Gossip.lua
+Elv\Blizzard\GuildBank.lua
+Elv\Blizzard\GuildRegistrar.lua
+Elv\Blizzard\Help.lua
+Elv\Blizzard\Inspect.lua
+Elv\Blizzard\LFD.lua
+Elv\Blizzard\LFR.lua
+Elv\Blizzard\Loot.lua
+Elv\Blizzard\Macro.lua
+Elv\Blizzard\Mail.lua
+Elv\Blizzard\Merchant.lua
+Elv\Blizzard\MirrorTimers.lua
+Elv\Blizzard\Misc.lua
+Elv\Blizzard\Petition.lua
+Elv\Blizzard\PvP.lua
+Elv\Blizzard\Quest.lua
+Elv\Blizzard\Raid.lua
+Elv\Blizzard\Socket.lua
+Elv\Blizzard\Spellbook.lua
+Elv\Blizzard\Stable.lua
+Elv\Blizzard\Tabard.lua
+Elv\Blizzard\Talent.lua
+Elv\Blizzard\Taxi.lua
+Elv\Blizzard\TimeManager.lua
+Elv\Blizzard\Trade.lua
+Elv\Blizzard\Tradeskill.lua
+Elv\Blizzard\Trainer.lua
+Elv\Blizzard\Tutorial.lua
+Elv\Blizzard\WatchFrame.lua
+Elv\Blizzard\WorldStateFrame.lua
+Elv\Blizzard\Worldmap.lua
+Templates.xml
+Init.lua

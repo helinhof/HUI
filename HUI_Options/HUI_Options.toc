@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cffc41f3bHUI|r Options
+## Notes: HUI's settings window and colour picker. Loaded only when opened.
+## Author: HUI
+## Dependencies: HUI
+## LoadOnDemand: 1
+
+ColorPicker.lua
+Config.lua
