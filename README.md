@@ -40,10 +40,11 @@ HUI is a flat, minimalist UI that replaces the default unit frames, raid and par
 ## Installation
 
 1. Download the latest release, or clone this repo.
-2. Copy both the `HUI` and `HUI_Options` folders into `<WoW folder>\Interface\AddOns\`. Each `.toc` file has to end up directly inside its folder:
-   - `Interface\AddOns\HUI\HUI.toc`
-   - `Interface\AddOns\HUI_Options\HUI_Options.toc`
-3. Enable **HUI** on the character screen. Tick "Load out of date AddOns" if the game asks.
+2. Copy both the `Interface` and `Fonts` folders into your main wow folder, next to the wow.exe `<WoW folder>\here`.
+   - `<WoW folder>\Interface\AddOns\HUI`
+   - `<WoW folder>\Interface\AddOns\HUI_Options`
+   - `<WoW folder>\Fonts`
+3. Make sure addon is enabled on the character selection screen. Tick "Load out of date AddOns" if necessary.
 
 `HUI_Options` contains the settings window. It only loads the first time you open the window, so it uses no memory until then.
 
@@ -57,5 +58,14 @@ HUI is a flat, minimalist UI that replaces the default unit frames, raid and par
 
 **Q: How do I open the menu for character info, dungeon finder, guild etc?**
 A: Middle click (mousewheel click) on the minimap.
+
+**Q: What is the font and why should i use it?**
+A: Font is called Prototype and i highly recommend it because it matches the ui.
+
+**Q: Something is not working**
+A: Report issue here or dm me on discord and i can help, the screenshots you see are just this addon, i can't promisse full compatibility with every other addon out there.
+
+**Q: Will there be more updates?**
+A: Yes, i have proc panel, defensives sorted somewhere else and more stuff planned.
 
 Settings are saved per account in `WTF\Account\<account>\SavedVariables\HUI.lua`. Cooldown manager layouts are saved per character.
